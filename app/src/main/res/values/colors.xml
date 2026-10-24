@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Theme Colors -->
+    <color name="primary">#1976D2</color>
+    <color name="primary_dark">#0D47A1</color>
+    <color name="color_accent">#0288D1</color>
+
+    <!-- UI Surface Colors -->
+    <color name="bg_main">#F5F7FA</color>
+    <color name="card_bg">#FFFFFF</color>
+
+    <!-- Priority Badge Colors -->
+    <color name="priority_bg">#FFEBEE</color>
+    <color name="priority_text">#C62828</color>
+    <color name="normal_bg">#E8F5E9</color>
+    <color name="normal_text">#2E7D32</color>
+
+    <!-- Inventory Stock Highlight Colors -->
+    <color name="stock_rice_bg">#E3F2FD</color>
+    <color name="stock_cans_bg">#FBE9E7</color>
+    <color name="stock_rice_text">#1565C0</color>
+    <color name="stock_cans_text">#D84315</color>
+</resources>

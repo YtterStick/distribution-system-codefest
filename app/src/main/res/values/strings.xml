@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Relief Distribution</string>
+    <string name="tab_distribute">Distribute</string>
+    <string name="tab_inventory">Inventory</string>
+
+    <string name="stock_title">Current Inventory</string>
+    <string name="label_rice_stock">RICE STOCK</string>
+    <string name="label_cans_stock">CANNED GOODS</string>
+    <string name="default_rice_stock">0 kg</string>
+    <string name="default_cans_stock">0 units</string>
+    <string name="rice_stock_format">%1$d kg</string>
+    <string name="cans_stock_format">%1$d units</string>
+
+    <string name="hint_household_name">Household Head Name</string>
+    <string name="hint_family_size">Family Size (Members)</string>
+    <string name="cb_priority_household">Priority Household (Senior/PWD/Infant)</string>
+    <string name="btn_distribute_goods">Distribute Relief Goods</string>
+
+    <string name="history_title">Distribution History Log</string>
+    <string name="empty_history">No distribution records recorded yet.</string>
+
+    <string name="stock_mgmt_title">Stock Management &amp; Restock</string>
+    <string name="hint_restock_rice">Add Rice Stock (kg)</string>
+    <string name="hint_restock_cans">Add Canned Goods Stock</string>
+    <string name="btn_add_to_stock">Update Stock</string>
+
+    <string name="delete_confirm_title">Delete Record?</string>
+    <string name="delete_confirm_msg">Are you sure you want to delete the distribution record for \"%1$s\"? This will restore %2$d kg rice and %3$d canned goods back to inventory.</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="delete_record">Delete Record</string>
+</resources>
